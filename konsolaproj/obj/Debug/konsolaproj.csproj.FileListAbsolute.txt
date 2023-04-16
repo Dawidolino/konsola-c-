@@ -1,0 +1,16 @@
+F:\projekty\C#\konsolaproj\konsolaproj\obj\Debug\konsolaproj.csproj.AssemblyReference.cache
+F:\projekty\C#\konsolaproj\konsolaproj\obj\Debug\konsolaproj.csproj.SuggestedBindingRedirects.cache
+F:\projekty\C#\konsolaproj\konsolaproj\obj\Debug\konsolaproj.csproj.CoreCompileInputs.cache
+F:\projekty\C#\konsolaproj\konsolaproj\bin\Debug\konsolaproj.exe.config
+F:\projekty\C#\konsolaproj\konsolaproj\bin\Debug\konsolaproj.exe
+F:\projekty\C#\konsolaproj\konsolaproj\bin\Debug\konsolaproj.pdb
+F:\projekty\C#\konsolaproj\konsolaproj\obj\Debug\konsolaproj.exe
+F:\projekty\C#\konsolaproj\konsolaproj\obj\Debug\konsolaproj.pdb
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\bin\Debug\konsolaproj.exe.config
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\bin\Debug\konsolaproj.exe
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\bin\Debug\konsolaproj.pdb
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\obj\Debug\konsolaproj.csproj.AssemblyReference.cache
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\obj\Debug\konsolaproj.csproj.SuggestedBindingRedirects.cache
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\obj\Debug\konsolaproj.csproj.CoreCompileInputs.cache
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\obj\Debug\konsolaproj.exe
+F:\projekty\zaliczenie funkc\konsola c#\konsolaproj\obj\Debug\konsolaproj.pdb
